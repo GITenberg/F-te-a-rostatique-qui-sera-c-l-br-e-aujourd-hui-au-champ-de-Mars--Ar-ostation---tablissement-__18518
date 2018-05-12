@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18518#F-te-a-rostatique-qui-sera-c-l-br-e-aujourd-hui-au-champ-de-Mars--Ar-ostation---tablissement-_
 gutenberg_bookshelf: FR Sciences et Techniques
 gutenberg_issued: '2006-06-06'
 gutenberg_type: Text
